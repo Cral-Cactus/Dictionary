@@ -1,0 +1,8 @@
+D:\aaa\testt\Dictionary\Phonebook\bin\Debug\Phonebook.exe.config
+D:\aaa\testt\Dictionary\Phonebook\bin\Debug\Phonebook.exe
+D:\aaa\testt\Dictionary\Phonebook\bin\Debug\Phonebook.pdb
+D:\aaa\testt\Dictionary\Phonebook\obj\Debug\Phonebook.csproj.AssemblyReference.cache
+D:\aaa\testt\Dictionary\Phonebook\obj\Debug\Phonebook.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Dictionary\Phonebook\obj\Debug\Phonebook.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Dictionary\Phonebook\obj\Debug\Phonebook.exe
+D:\aaa\testt\Dictionary\Phonebook\obj\Debug\Phonebook.pdb

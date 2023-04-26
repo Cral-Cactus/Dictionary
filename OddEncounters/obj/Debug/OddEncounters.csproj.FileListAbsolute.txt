@@ -1,0 +1,8 @@
+D:\aaa\testt\Dictionary\OddEncounters\bin\Debug\OddEncounters.exe.config
+D:\aaa\testt\Dictionary\OddEncounters\bin\Debug\OddEncounters.exe
+D:\aaa\testt\Dictionary\OddEncounters\bin\Debug\OddEncounters.pdb
+D:\aaa\testt\Dictionary\OddEncounters\obj\Debug\OddEncounters.csproj.AssemblyReference.cache
+D:\aaa\testt\Dictionary\OddEncounters\obj\Debug\OddEncounters.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Dictionary\OddEncounters\obj\Debug\OddEncounters.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Dictionary\OddEncounters\obj\Debug\OddEncounters.exe
+D:\aaa\testt\Dictionary\OddEncounters\obj\Debug\OddEncounters.pdb

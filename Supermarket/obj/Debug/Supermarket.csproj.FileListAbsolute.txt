@@ -1,0 +1,8 @@
+D:\aaa\testt\Dictionary\Supermarket\bin\Debug\Supermarket.exe.config
+D:\aaa\testt\Dictionary\Supermarket\bin\Debug\Supermarket.exe
+D:\aaa\testt\Dictionary\Supermarket\bin\Debug\Supermarket.pdb
+D:\aaa\testt\Dictionary\Supermarket\obj\Debug\Supermarket.csproj.AssemblyReference.cache
+D:\aaa\testt\Dictionary\Supermarket\obj\Debug\Supermarket.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Dictionary\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Dictionary\Supermarket\obj\Debug\Supermarket.exe
+D:\aaa\testt\Dictionary\Supermarket\obj\Debug\Supermarket.pdb

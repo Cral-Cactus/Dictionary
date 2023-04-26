@@ -1,0 +1,8 @@
+D:\aaa\testt\Dictionary\AMinerTask\bin\Debug\AMinerTask.exe.config
+D:\aaa\testt\Dictionary\AMinerTask\bin\Debug\AMinerTask.exe
+D:\aaa\testt\Dictionary\AMinerTask\bin\Debug\AMinerTask.pdb
+D:\aaa\testt\Dictionary\AMinerTask\obj\Debug\AMinerTask.csproj.AssemblyReference.cache
+D:\aaa\testt\Dictionary\AMinerTask\obj\Debug\AMinerTask.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Dictionary\AMinerTask\obj\Debug\AMinerTask.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Dictionary\AMinerTask\obj\Debug\AMinerTask.exe
+D:\aaa\testt\Dictionary\AMinerTask\obj\Debug\AMinerTask.pdb
