@@ -1,0 +1,8 @@
+D:\aaa\testt\Dictionary\UserLogs\bin\Debug\UserLogs.exe.config
+D:\aaa\testt\Dictionary\UserLogs\bin\Debug\UserLogs.exe
+D:\aaa\testt\Dictionary\UserLogs\bin\Debug\UserLogs.pdb
+D:\aaa\testt\Dictionary\UserLogs\obj\Debug\UserLogs.csproj.AssemblyReference.cache
+D:\aaa\testt\Dictionary\UserLogs\obj\Debug\UserLogs.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Dictionary\UserLogs\obj\Debug\UserLogs.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Dictionary\UserLogs\obj\Debug\UserLogs.exe
+D:\aaa\testt\Dictionary\UserLogs\obj\Debug\UserLogs.pdb
