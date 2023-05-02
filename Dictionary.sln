@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket", "Supermarket\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserLogs", "UserLogs\UserLogs.csproj", "{A1E71F43-9B9E-4433-967D-AB5CB2E18B5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountRealNums", "CountRealNums\CountRealNums.csproj", "{8AAB9CC5-5D1A-46A8-936F-C14D72D936B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhonebookUpgrade", "PhonebookUpgrade\PhonebookUpgrade.csproj", "{F17D0ED3-73D5-41D3-830E-E78ACE3B99FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{A1E71F43-9B9E-4433-967D-AB5CB2E18B5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1E71F43-9B9E-4433-967D-AB5CB2E18B5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1E71F43-9B9E-4433-967D-AB5CB2E18B5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AAB9CC5-5D1A-46A8-936F-C14D72D936B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AAB9CC5-5D1A-46A8-936F-C14D72D936B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AAB9CC5-5D1A-46A8-936F-C14D72D936B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AAB9CC5-5D1A-46A8-936F-C14D72D936B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F17D0ED3-73D5-41D3-830E-E78ACE3B99FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17D0ED3-73D5-41D3-830E-E78ACE3B99FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17D0ED3-73D5-41D3-830E-E78ACE3B99FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17D0ED3-73D5-41D3-830E-E78ACE3B99FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
