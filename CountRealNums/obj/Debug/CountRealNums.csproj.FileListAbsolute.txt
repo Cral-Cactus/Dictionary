@@ -1,0 +1,8 @@
+D:\aaa\testt\Dictionary\CountRealNums\bin\Debug\CountRealNums.exe.config
+D:\aaa\testt\Dictionary\CountRealNums\bin\Debug\CountRealNums.exe
+D:\aaa\testt\Dictionary\CountRealNums\bin\Debug\CountRealNums.pdb
+D:\aaa\testt\Dictionary\CountRealNums\obj\Debug\CountRealNums.csproj.AssemblyReference.cache
+D:\aaa\testt\Dictionary\CountRealNums\obj\Debug\CountRealNums.csproj.SuggestedBindingRedirects.cache
+D:\aaa\testt\Dictionary\CountRealNums\obj\Debug\CountRealNums.csproj.CoreCompileInputs.cache
+D:\aaa\testt\Dictionary\CountRealNums\obj\Debug\CountRealNums.exe
+D:\aaa\testt\Dictionary\CountRealNums\obj\Debug\CountRealNums.pdb
