@@ -1,37 +1,35 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Phonebook
+namespace PhoneBook
 {
     internal class Program
     {
         static void Main()
         {
-            Dictionary<string, string> phoneBook = new Dictionary<string, string>();
-            string input;
+            string[] input = Console.ReadLine().Split(' ');
+            var phonebook = new Dictionary<string, string>();
 
-            while ((input = Console.ReadLine()) != "END")
+            while (input[0] != "END")
             {
-                string[] tokens = input.Split();
-                string command = tokens[0];
-                string name = tokens[1];
+                if (input[0] == "A")
+                {
+                    phonebook[input[1]] = input[2];
 
-                if (command == "A")
-                {
-                    string phone = tokens[2];
-                    phoneBook[name] = phone;
                 }
-                else if (command == "S")
+                else if (input[0] == "S")
                 {
-                    if (phoneBook.ContainsKey(name))
+                    if (phonebook.ContainsKey(input[1]))
                     {
-                        Console.WriteLine($"{name} -> {phoneBook[name]}");
+                        Console.WriteLine($"{input[1]} -> {phonebook[input[1]]}");
                     }
                     else
                     {
-                        Console.WriteLine($"Contact {name} does not exist.");
+                        Console.WriteLine($"Contact {input[1]} does not exist.");
                     }
                 }
+
+                input = Console.ReadLine().Split(' ');
             }
         }
     }
