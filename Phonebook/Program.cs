@@ -8,7 +8,7 @@ namespace PhoneBook
         static void Main()
         {
             string[] input = Console.ReadLine().Split(' ');
-            var phonebook = new Dictionary<string, string>();
+            Dictionary<string, string> phonebook = new Dictionary<string, string>();
 
             while (input[0] != "END")
             {
