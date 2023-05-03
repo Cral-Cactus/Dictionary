@@ -8,7 +8,7 @@ namespace PhoneBookUpgrade
         static void Main()
         {
             string[] input = Console.ReadLine().Split(' ');
-            var phonebook = new SortedDictionary<string, string>();
+            SortedDictionary<string, string> phonebook = new SortedDictionary<string, string>();
 
             while (input[0] != "END")
             {
