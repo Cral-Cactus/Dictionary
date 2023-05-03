@@ -9,7 +9,7 @@ namespace UserLogs
         static void Main()
         {
             string input;
-            var userLogs = new Dictionary<string, Dictionary<string, int>>();
+            var userLogs = new Dictionary<string, Dictionary<string, int>>(); // Dictionary<string, Dictionary<string, int>> could be used instead of var but its tooo long
 
             while ((input = Console.ReadLine()) != "end")
             {
